@@ -1,0 +1,1 @@
+"""Magister Arcanus Discord bot."""
