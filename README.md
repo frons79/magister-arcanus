@@ -1,18 +1,18 @@
 # Magister Arcanus
 
-Discord bot for RPG random tables.
+Bot Discord per tabelle casuali creato per il GdR Lex Arcana.
 
-## Permissions: Demiurgo
+## Permessi: Demiurgo
 
-Magister Arcanus does **not** bind authorization to the person who built the bot.
-Each Discord server has its own unique **Demiurgo** permission.
+Magister Arcanus **non** vincola l'autorizzazione alla persona che ha creato il bot.
+Ogni server Discord possiede il proprio permesso **univoco** di "Demiurgo".
 
-- The permission is represented by the `Demiurgo` Discord role.
-- Exactly one member may hold that role at a time.
-- The first Demiurgo is appointed by a server administrator.
-- After that, only the current Demiurgo can transfer the permission to another member.
-- The bot's administrative commands are restricted to the current Demiurgo.
-- Removing the Demiurgo role from a member revokes the permission.
-- The bot never uses the GitHub account, application owner, or an environment variable to decide who may operate it.
+- L'autorizzazione è rappresentata dal ruolo Discord `Demiurgo`.
+- Solo un membro alla volta può detenere questo ruolo.
+- Il primo Demiurgo viene nominato da un amministratore del server.
+- Successivamente, solo il Demiurgo in carica può trasferire il permesso a un altro membro.
+- I comandi amministrativi del bot sono riservati esclusivamente al Demiurgo in carica.
+- La rimozione del ruolo "Demiurgo" da un membro comporta la revoca del permesso.
+- Il bot non utilizza mai l'account GitHub, il proprietario dell'applicazione o variabili d'ambiente per determinare chi sia autorizzato a gestirlo..
 
-The implementation creates the role automatically when the first Demiurgo is appointed. The bot must have the Discord permissions required to manage roles, and its role must be above the `Demiurgo` role in the server role hierarchy.
+Il sistema crea automaticamente il ruolo al momento della nomina del primo Demiurgo. Il bot deve disporre dei permessi Discord necessari per la gestione dei ruoli e il suo ruolo deve trovarsi al di sopra del ruolo  `Demiurgo` nella gerarchia dei ruoli del server.
