@@ -1,3 +1,0 @@
-# Assets
-
-Icon placeholder.
