@@ -1,0 +1,3 @@
+{
+"name":"Dacia Occidentale - Mostri","category":"Dacia Occidentale/Mostri","description":"Creature e minacce del fronte occidentale della Dacia.","dice":"1d20","entries":[
+{"range":[1,10],"text":"Nessun mostro: la strada di frontiera è tranquilla.","source":"Lex Arcana - Dacia e Thracia; voce derivata"},{"range":[11,14],"text":"1d6 Lupi o sciacalli affamati.","source":"Lex Arcana - Dacia e Thracia"},{"range":[15,17],"text":"1d4 Briganti dei Daci Liberi.","source":"Lex Arcana - Dacia e Thracia; voce derivata"},{"range":[18,19],"text":"1 Orso delle foreste.","source":"Lex Arcana - Dacia e Thracia; voce derivata"},{"range":[20,20],"text":"1 Balaur nei pressi di un antico sentiero.","source":"Lex Arcana - Dacia e Thracia"}]}
