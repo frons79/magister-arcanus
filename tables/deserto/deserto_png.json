@@ -1,0 +1,15 @@
+{
+  "name": "Deserto - PNG",
+  "category": "Deserto/PNG",
+  "description": "PNG e gruppi di PNG incontrabili nel deserto. Include materiale Aegyptus verificato.",
+  "dice": "1d12",
+  "entries": [
+    { "range": [1, 2], "text": "Nomadi del Deserto", "source": "Lex Arcana 2e - Aegyptus" },
+    { "range": [3, 4], "text": "Medjai", "source": "Lex Arcana 2e - Aegyptus" },
+    { "range": [5, 6], "text": "1d4 Cammellieri", "source": "Lex Arcana 2e - Aegyptus" },
+    { "range": [7, 8], "text": "1d4 Ladri di Tombe", "source": "Lex Arcana 2e - Aegyptus" },
+    { "range": [9, 10], "text": "Sha-gaz", "source": "Lex Arcana 2e - Aegyptus" },
+    { "range": [11, 11], "text": "Forsennati", "source": "Lex Arcana 2e - Aegyptus" },
+    { "range": [12, 12], "text": "Adoratori del Vuoto", "source": "Lex Arcana 2e - Aegyptus" }
+  ]
+}
