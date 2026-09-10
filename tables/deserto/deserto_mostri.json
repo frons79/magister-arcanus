@@ -1,0 +1,28 @@
+{
+  "name": "Deserto - Mostri",
+  "category": "Deserto/Mostri",
+  "description": "Incontri con creature e mostri del deserto. Le voci possono provenire da differenti fonti compatibili con il gioco.",
+  "dice": "1d20",
+  "entries": [
+    { "range": [1, 1], "text": "1d6 Scorpioni Giganti", "source": "Magister Arcanus - Tabella base" },
+    { "range": [2, 2], "text": "2d4 Iene", "source": "Magister Arcanus - Tabella base" },
+    { "range": [3, 3], "text": "1d4 Coboldi nomadi", "source": "Magister Arcanus - Tabella base" },
+    { "range": [4, 4], "text": "1d6 Goblin del deserto", "source": "Magister Arcanus - Tabella base" },
+    { "range": [5, 5], "text": "2d6 Serpenti velenosi", "source": "Magister Arcanus - Tabella base" },
+    { "range": [6, 6], "text": "1 Leone del deserto", "source": "Magister Arcanus - Tabella base" },
+    { "range": [7, 7], "text": "1d4 Avvoltoi giganti", "source": "Magister Arcanus - Tabella base" },
+    { "range": [8, 8], "text": "1d6+2 Scheletri erranti", "source": "Magister Arcanus - Tabella base" },
+    { "range": [9, 9], "text": "1 Mummia accompagnata da 1d4 Scheletri", "source": "Magister Arcanus - Tabella base" },
+    { "range": [10, 10], "text": "1d3 Elementali della sabbia", "source": "Magister Arcanus - Tabella base" },
+    { "range": [11, 11], "text": "1d4 Gnoll predoni", "source": "Magister Arcanus - Tabella base" },
+    { "range": [12, 12], "text": "2d4 Scorpioni giganti", "source": "Magister Arcanus - Tabella base" },
+    { "range": [13, 13], "text": "1 Roc giovane", "source": "Magister Arcanus - Tabella base" },
+    { "range": [14, 14], "text": "1d4 Ankheg delle dune", "source": "Magister Arcanus - Tabella base" },
+    { "range": [15, 15], "text": "1 Basilisco delle sabbie", "source": "Magister Arcanus - Tabella base" },
+    { "range": [16, 16], "text": "1d6+1 Zombie disseccati", "source": "Magister Arcanus - Tabella base" },
+    { "range": [17, 17], "text": "1 Djinni errante", "source": "Magister Arcanus - Tabella base" },
+    { "range": [18, 18], "text": "1d4 Lamie minori", "source": "Magister Arcanus - Tabella base" },
+    { "range": [19, 19], "text": "1 Verme delle sabbie", "source": "Magister Arcanus - Tabella base" },
+    { "range": [20, 20], "text": "Nessun mostro: una tempesta di sabbia improvvisa", "source": "Magister Arcanus - Tabella base" }
+  ]
+}
