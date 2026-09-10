@@ -1,0 +1,9 @@
+{
+  "name": "Palude - PNG",
+  "category": "Palude/PNG",
+  "description": "PNG incontrabili nelle regioni paludose.",
+  "dice": "1d20",
+  "entries": [
+    { "range": [1, 1], "text": "1 Pescatore o raccoglitore di canne che conosce le acque locali", "source": "Esempio – da popolare" }
+  ]
+}
