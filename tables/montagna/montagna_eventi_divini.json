@@ -4,6 +4,6 @@
   "description": "Presagi divini manifestati nelle montagne. I Custodes possono interpretarli o decifrarli mediante Rituali.",
   "dice": "1d20",
   "entries": [
-    { "range": [1, 1], "text": "Un'eco risponde alle parole dei Custodes con una voce che non appartiene a nessuno di loro.", "source": "Esempio – da popolare" }
+    { "range": [1, 1], "text": "Un'eco ripete una parola pronunciata da un Custos con una voce diversa: il fenomeno costituisce un presagio da sottoporre a un Rituale di divinazione.", "source": "Lex Arcana - Manuale Base; derivato dal tema dei Presagi" }
   ]
 }
