@@ -4,6 +4,6 @@
   "description": "PNG incontrabili nelle regioni forestali.",
   "dice": "1d20",
   "entries": [
-    { "range": [1, 1], "text": "1 Cacciatore che conosce i sentieri della foresta", "source": "Esempio – da popolare" }
+    { "range": [1, 1], "text": "1 Cacciatore", "source": "Lex Arcana - Manuale Base" }
   ]
 }
