@@ -1,0 +1,15 @@
+{
+  "name": "Fiume - PNG",
+  "category": "Fiume/PNG",
+  "description": "PNG incontrabili lungo il fiume e sulle sue rive. Include categorie presenti in Aegyptus.",
+  "dice": "1d12",
+  "entries": [
+    { "range": [1, 3], "text": "1d4 Battellieri", "source": "Lex Arcana 2e - Aegyptus" },
+    { "range": [4, 5], "text": "1d4 Cammellieri con animali da soma", "source": "Lex Arcana 2e - Aegyptus" },
+    { "range": [6, 7], "text": "1d4 Medjai in pattuglia", "source": "Lex Arcana 2e - Aegyptus" },
+    { "range": [8, 9], "text": "1d4 Nomadi del Deserto", "source": "Lex Arcana 2e - Aegyptus" },
+    { "range": [10, 10], "text": "1d4 Ladri di Tombe diretti verso una necropoli", "source": "Lex Arcana 2e - Aegyptus" },
+    { "range": [11, 11], "text": "1d4 Adoratori del Vuoto", "source": "Lex Arcana 2e - Aegyptus" },
+    { "range": [12, 12], "text": "Un Alto Sacerdote accompagnato da servitori", "source": "Lex Arcana 2e - Aegyptus" }
+  ]
+}
