@@ -1,0 +1,13 @@
+{
+  "name":"Dacia - Gelido Settentrione - Eventi Divini",
+  "category":"Dacia/Gelido Settentrione/Eventi Divini",
+  "description":"Presagi degli dèi nelle terre fredde della Dacia, interpretabili tramite Rituali.",
+  "dice":"1d20",
+  "entries":[
+    {"range":[1,10],"text":"Il vento tace per un istante e ogni suono sembra lontanissimo.","source":"Lex Arcana - Dacia e Thracia; voce derivata"},
+    {"range":[11,14],"text":"Tre raffiche successive piegano la neve nella stessa direzione, come un segno deliberato.","source":"Lex Arcana - Dacia e Thracia; voce derivata"},
+    {"range":[15,17],"text":"Una traccia di animale attraversa il cammino e termina davanti a un simbolo naturale inatteso.","source":"Lex Arcana - Dacia e Thracia; voce derivata"},
+    {"range":[18,19],"text":"Il gelo forma per breve tempo una figura simile a un'aquila sulle pietre.","source":"Lex Arcana - Dacia e Thracia; voce derivata"},
+    {"range":[20,20],"text":"Un vento improvviso sembra pronunciare il nome di una divinità antica.","source":"Lex Arcana - Dacia e Thracia; voce derivata"}
+  ]
+}
