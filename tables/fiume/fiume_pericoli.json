@@ -1,0 +1,19 @@
+{
+  "name": "Fiume - Pericoli",
+  "category": "Fiume/Pericoli",
+  "description": "Pericoli ambientali e situazioni rischiose presso grandi fiumi e corsi d'acqua.",
+  "dice": "1d20",
+  "entries": [
+    { "range": [1, 3], "text": "Corrente improvvisamente più forte del previsto" },
+    { "range": [4, 5], "text": "Riva fangosa che cede sotto i piedi" },
+    { "range": [6, 7], "text": "Guado più profondo del previsto" },
+    { "range": [8, 9], "text": "Vegetazione fitta che nasconde il percorso e la riva" },
+    { "range": [10, 11], "text": "Imbarcazione danneggiata o instabile" },
+    { "range": [12, 13], "text": "Piena improvvisa" },
+    { "range": [14, 15], "text": "Banco di sabbia che cambia posizione" },
+    { "range": [16, 17], "text": "Zona infestata da insetti e parassiti" },
+    { "range": [18, 18], "text": "Ruderi o ostacoli sommersi" },
+    { "range": [19, 19], "text": "Animali pericolosi attirano l'attenzione mentre i Custodes attraversano l'acqua" },
+    { "range": [20, 20], "text": "Piena improvvisa combinata con un ostacolo sommerso" }
+  ]
+}
