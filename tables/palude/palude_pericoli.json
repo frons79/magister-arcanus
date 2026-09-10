@@ -1,0 +1,9 @@
+{
+  "name": "Palude - Pericoli",
+  "category": "Palude/Pericoli",
+  "description": "Pericoli naturali, ambientali e situazionali delle paludi.",
+  "dice": "1d20",
+  "entries": [
+    { "range": [1, 1], "text": "Il terreno apparentemente solido cede trasformandosi in fango profondo.", "source": "Esempio – da popolare" }
+  ]
+}
