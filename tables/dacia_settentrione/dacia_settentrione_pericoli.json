@@ -1,0 +1,13 @@
+{
+  "name":"Dacia - Gelido Settentrione - Pericoli",
+  "category":"Dacia/Gelido Settentrione/Pericoli",
+  "description":"Pericoli naturali e ambientali delle regioni fredde e montuose della Dacia settentrionale.",
+  "dice":"1d20",
+  "entries":[
+    {"range":[1,10],"text":"Nessun pericolo immediato.","source":"Lex Arcana - Dacia e Thracia; voce derivata"},
+    {"range":[11,14],"text":"Nebbia improvvisa: orientarsi diventa più difficile.","source":"Lex Arcana - Dacia e Thracia; voce derivata"},
+    {"range":[15,17],"text":"Ghiaccio e terreno scivoloso lungo un pendio.","source":"Lex Arcana - Dacia e Thracia; voce derivata"},
+    {"range":[18,19],"text":"Una frana blocca la strada e minaccia chi si trova sotto il versante.","source":"Lex Arcana - Dacia e Thracia; voce derivata"},
+    {"range":[20,20],"text":"Una tormenta invernale riduce drasticamente visibilità e movimento.","source":"Lex Arcana - Dacia e Thracia; voce derivata"}
+  ]
+}
