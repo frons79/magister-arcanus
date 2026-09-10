@@ -1,0 +1,9 @@
+{
+  "name": "Montagna - Pericoli",
+  "category": "Montagna/Pericoli",
+  "description": "Pericoli naturali, ambientali e situazionali delle montagne.",
+  "dice": "1d20",
+  "entries": [
+    { "range": [1, 1], "text": "Una caduta di pietre interrompe il passaggio su un sentiero stretto.", "source": "Esempio – da popolare" }
+  ]
+}
