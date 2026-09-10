@@ -4,6 +4,6 @@
   "description": "Incontri con creature e mostri delle paludi.",
   "dice": "1d20",
   "entries": [
-    { "range": [1, 1], "text": "1 Coccodrillo nascosto nell'acqua bassa", "source": "Esempio – da popolare" }
+    { "range": [1, 1], "text": "1 Coccodrillo", "source": "Lex Arcana - Manuale Base; habitat fluviale e palustre" }
   ]
 }
