@@ -4,6 +4,6 @@
   "description": "Presagi divini manifestati nelle colline. I Custodes possono interpretarli o decifrarli mediante Rituali.",
   "dice": "1d20",
   "entries": [
-    { "range": [1, 1], "text": "Una raffica di vento piega l'erba formando per pochi istanti un simbolo riconoscibile.", "source": "Esempio – da popolare" }
+    { "range": [1, 1], "text": "Le nubi si aprono per un istante lasciando filtrare la luce su un unico punto del paesaggio: il presagio richiama l'attenzione dei Custodes su quel luogo.", "source": "Lex Arcana - Manuale Base; derivato dal tema dei Presagi" }
   ]
 }
