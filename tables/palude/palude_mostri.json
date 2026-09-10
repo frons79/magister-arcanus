@@ -1,0 +1,9 @@
+{
+  "name": "Palude - Mostri",
+  "category": "Palude/Mostri",
+  "description": "Incontri con creature e mostri delle paludi.",
+  "dice": "1d20",
+  "entries": [
+    { "range": [1, 1], "text": "1 Coccodrillo nascosto nell'acqua bassa", "source": "Esempio – da popolare" }
+  ]
+}
