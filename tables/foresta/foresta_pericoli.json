@@ -1,0 +1,9 @@
+{
+  "name": "Foresta - Pericoli",
+  "category": "Foresta/Pericoli",
+  "description": "Pericoli naturali, ambientali e situazionali delle foreste.",
+  "dice": "1d20",
+  "entries": [
+    { "range": [1, 1], "text": "Un ramo spezzato cade improvvisamente mentre i Custodes passano sotto gli alberi.", "source": "Esempio – da popolare" }
+  ]
+}
