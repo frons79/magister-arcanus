@@ -1,0 +1,20 @@
+{
+  "name": "Fiume - Eventi Divini",
+  "category": "Fiume/Eventi Divini",
+  "description": "Presagi divini manifestati presso il fiume. I Custodes possono interpretarli o decifrarli mediante Rituali.",
+  "dice": "1d20",
+  "entries": [
+    { "range": [1, 2], "text": "La corrente rallenta improvvisamente e una foglia o un ramo gira in cerchio indicando una direzione." },
+    { "range": [3, 4], "text": "Un animale acquatico emerge, resta immobile davanti ai Custodes e poi scompare senza fuggire." },
+    { "range": [5, 6], "text": "La superficie dell'acqua riflette per pochi istanti un cielo diverso da quello reale." },
+    { "range": [7, 8], "text": "Un tratto della riva si illumina alla luce del sole o della luna senza che vi sia alcuna fonte visibile." },
+    { "range": [9, 10], "text": "La corrente trasporta un oggetto che non dovrebbe trovarsi nel fiume e lo deposita ai piedi dei Custodes." },
+    { "range": [11, 12], "text": "Per pochi istanti il fiume scorre controcorrente." },
+    { "range": [13, 14], "text": "Stormi di uccelli formano nel cielo una figura riconoscibile prima di disperdersi." },
+    { "range": [15, 16], "text": "Una voce emerge dal rumore dell'acqua e pronuncia una parola o un nome." },
+    { "range": [17, 17], "text": "Il fiume mostra nell'acqua un'immagine fugace di un luogo che i Custodes devono raggiungere o evitare." },
+    { "range": [18, 18], "text": "Un animale sacro appare nel punto esatto in cui i Custodes devono prendere una decisione." },
+    { "range": [19, 19], "text": "Il livello dell'acqua cambia per pochi istanti, rivelando qualcosa nascosto sul fondo." },
+    { "range": [20, 20], "text": "Presagio maggiore: il fiume manifesta apertamente una volontà divina attraverso acqua, animali e cielo." }
+  ]
+}
