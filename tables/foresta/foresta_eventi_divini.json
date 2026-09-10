@@ -1,0 +1,9 @@
+{
+  "name": "Foresta - Eventi Divini",
+  "category": "Foresta/Eventi Divini",
+  "description": "Presagi divini manifestati nelle foreste. I Custodes possono interpretarli o decifrarli mediante Rituali.",
+  "dice": "1d20",
+  "entries": [
+    { "range": [1, 1], "text": "Tutti gli uccelli della foresta tacciono simultaneamente per alcuni istanti.", "source": "Esempio – da popolare" }
+  ]
+}
