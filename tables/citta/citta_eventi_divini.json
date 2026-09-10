@@ -1,0 +1,20 @@
+{
+  "name": "Città - Eventi Divini",
+  "category": "Città/Eventi Divini",
+  "description": "Presagi inviati dagli dèi in ambiente urbano; il significato deve essere interpretato mediante Rituali.",
+  "dice": "1d12",
+  "entries": [
+    {"range":[1,1],"text":"Una fiamma votiva si spegne senza vento e si riaccende rivolta verso una direzione precisa.","source":"Lex Arcana 2e - Manuale Base"},
+    {"range":[2,2],"text":"Un animale domestico fugge e conduce inconsapevolmente verso un luogo significativo.","source":"Lex Arcana 2e - Manuale Base"},
+    {"range":[3,3],"text":"Un tuono lontano risuona in un cielo sereno proprio mentre viene pronunciato un nome importante.","source":"Lex Arcana 2e - Manuale Base"},
+    {"range":[4,4],"text":"Una statua o un'immagine sacra appare bagnata di acqua nonostante l'ambiente asciutto.","source":"Lex Arcana 2e - Manuale Base"},
+    {"range":[5,5],"text":"Tre uccelli si posano insieme e poi volano verso lo stesso edificio.","source":"Lex Arcana 2e - Manuale Base"},
+    {"range":[6,6],"text":"Una moneta cade mostrando un simbolo insolito invece del normale conio.","source":"Lex Arcana 2e - Manuale Base"},
+    {"range":[7,7],"text":"Un profumo di incenso compare improvvisamente in una strada priva di templi.","source":"Lex Arcana 2e - Aegyptus"},
+    {"range":[8,8],"text":"Una figura riflessa nell'acqua o nel bronzo non coincide con chi vi si specchia.","source":"Lex Arcana 2e - Aegyptus"},
+    {"range":[9,9],"text":"Un gruppo di animali manifesta per pochi istanti un comportamento perfettamente sincronizzato.","source":"Lex Arcana 2e - Aegyptus"},
+    {"range":[10,10],"text":"Un'immagine sacra mostra per un istante un dettaglio diverso dal consueto.","source":"Lex Arcana 2e - Aegyptus"},
+    {"range":[11,11],"text":"Un sogno condiviso colpisce più Custodes nella stessa notte.","source":"Lex Arcana 2e - Manuale Base"},
+    {"range":[12,12],"text":"Un presagio maggiore: un fenomeno pubblico e inequivocabile annuncia favore o collera divina.","source":"Lex Arcana 2e - Manuale Base"}
+  ]
+}
