@@ -1,0 +1,13 @@
+{
+  "name": "Dacia - Gelido Settentrione - Mostri",
+  "category": "Dacia/Gelido Settentrione/Mostri",
+  "description": "Incontri con creature delle foreste, montagne e terre fredde della Dacia settentrionale.",
+  "dice": "1d20",
+  "entries": [
+    {"range":[1,10],"text":"Nessun mostro: il territorio è silenzioso e innevato.","source":"Lex Arcana - Dacia e Thracia; voce derivata"},
+    {"range":[11,14],"text":"1d6 Lupi affamati seguono le tracce dei Custodes.","source":"Lex Arcana - Dacia e Thracia; voce derivata"},
+    {"range":[15,17],"text":"1 Bolinthos solitario difende il proprio territorio.","source":"Lex Arcana - Dacia e Thracia"},
+    {"range":[18,19],"text":"1d4 Orsi delle foreste settentrionali.","source":"Lex Arcana - Dacia e Thracia; voce derivata"},
+    {"range":[20,20],"text":"1 Balaur si muove tra gli alberi e osserva i Custodes prima di attaccare.","source":"Lex Arcana - Dacia e Thracia"}
+  ]
+}
