@@ -1,0 +1,9 @@
+{
+  "name": "Montagna - PNG",
+  "category": "Montagna/PNG",
+  "description": "PNG incontrabili nelle regioni montuose.",
+  "dice": "1d20",
+  "entries": [
+    { "range": [1, 1], "text": "1 Pastore transumante che conosce un valico sicuro", "source": "Esempio – da popolare" }
+  ]
+}
