@@ -1,0 +1,9 @@
+{
+  "name": "Palude - Eventi Divini",
+  "category": "Palude/Eventi Divini",
+  "description": "Presagi divini manifestati nelle paludi. I Custodes possono interpretarli o decifrarli mediante Rituali.",
+  "dice": "1d20",
+  "entries": [
+    { "range": [1, 1], "text": "Una distesa di nebbia si apre formando un corridoio perfettamente diritto verso una destinazione sconosciuta.", "source": "Esempio – da popolare" }
+  ]
+}
