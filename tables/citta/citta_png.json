@@ -1,0 +1,20 @@
+{
+  "name": "Città - PNG",
+  "category": "Città/PNG",
+  "description": "PNG urbani pronti per incontri, indagini e complicazioni.",
+  "dice": "1d12",
+  "entries": [
+    {"range":[1,1],"text":"Accattone o veterano invalido in cerca di elemosina","source":"Lex Arcana 2e - Manuale Base"},
+    {"range":[2,2],"text":"Artigiano o bottegaio che ha visto qualcosa di sospetto","source":"Lex Arcana 2e - Manuale Base"},
+    {"range":[3,3],"text":"Mercante straniero appena arrivato in città","source":"Lex Arcana 2e - Manuale Base"},
+    {"range":[4,4],"text":"Medico o guaritore disposto a collaborare","source":"Lex Arcana 2e - Manuale Base"},
+    {"range":[5,5],"text":"Indovino: forse ciarlatano, forse autentico divinatore","source":"Lex Arcana 2e - Manuale Base"},
+    {"range":[6,6],"text":"Vigiles impegnati a contenere un incidente o un incendio","source":"Lex Arcana 2e - Manuale Base"},
+    {"range":[7,7],"text":"Sacerdote di un culto ufficiale","source":"Lex Arcana 2e - Manuale Base"},
+    {"range":[8,8],"text":"Sicario o criminale che cerca un contatto discreto","source":"Lex Arcana 2e - Manuale Base"},
+    {"range":[9,9],"text":"Ladro di tombe in cerca di compratori per una reliquia","source":"Lex Arcana 2e - Aegyptus"},
+    {"range":[10,10],"text":"Medjai di passaggio, alla ricerca di informazioni","source":"Lex Arcana 2e - Aegyptus"},
+    {"range":[11,11],"text":"Forsennato che profetizza una minaccia imminente","source":"Lex Arcana 2e - Aegyptus"},
+    {"range":[12,12],"text":"Adoratore del Vuoto travestito da mendicante o pellegrino","source":"Lex Arcana 2e - Aegyptus"}
+  ]
+}
