@@ -1,0 +1,19 @@
+{
+  "name": "Deserto - Pericoli",
+  "category": "Deserto/Pericoli",
+  "description": "Pericoli ambientali e situazioni rischiose del deserto.",
+  "dice": "1d20",
+  "entries": [
+    { "range": [1, 3], "text": "Tempesta di sabbia improvvisa" },
+    { "range": [4, 5], "text": "Sabbia instabile: una zona apparentemente solida cede sotto il peso" },
+    { "range": [6, 7], "text": "Caldo estremo e disidratazione" },
+    { "range": [8, 9], "text": "Miraggio che nasconde una minaccia o induce a seguire una falsa direzione" },
+    { "range": [10, 11], "text": "Terreno roccioso e tagliente che rallenta la marcia" },
+    { "range": [12, 13], "text": "Pozzo o cisterna contaminata" },
+    { "range": [14, 15], "text": "Rovine semisepolte che cedono sotto il peso" },
+    { "range": [16, 17], "text": "Vento notturno gelido e improvviso" },
+    { "range": [18, 18], "text": "Antica trappola ancora attiva nei pressi di una rovina" },
+    { "range": [19, 19], "text": "Frattura del terreno: una piccola voragine si apre improvvisamente" },
+    { "range": [20, 20], "text": "Pericolo combinato: il terreno cede proprio mentre si avvicina una tempesta di sabbia" }
+  ]
+}
