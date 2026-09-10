@@ -1,0 +1,9 @@
+{
+  "name": "Collina - Mostri",
+  "category": "Collina/Mostri",
+  "description": "Incontri con creature e mostri delle colline.",
+  "dice": "1d20",
+  "entries": [
+    { "range": [1, 1], "text": "1d4 Cinghiali selvatici", "source": "Esempio – da popolare" }
+  ]
+}
