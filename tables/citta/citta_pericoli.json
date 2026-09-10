@@ -1,0 +1,20 @@
+{
+  "name": "Città - Pericoli",
+  "category": "Città/Pericoli",
+  "description": "Pericoli urbani, sociali e soprannaturali.",
+  "dice": "1d12",
+  "entries": [
+    {"range":[1,1],"text":"Folla improvvisa: i Custodes vengono separati o rallentati.","source":"Lex Arcana 2e - Manuale Base"},
+    {"range":[2,2],"text":"Crollo o incendio in un edificio vicino.","source":"Lex Arcana 2e - Manuale Base"},
+    {"range":[3,3],"text":"Guardie locali ordinano ai Custodes di fermarsi per un controllo.","source":"Lex Arcana 2e - Manuale Base"},
+    {"range":[4,4],"text":"Un borseggiatore tenta di sottrarre un oggetto importante.","source":"Lex Arcana 2e - Manuale Base"},
+    {"range":[5,5],"text":"Una strada viene improvvisamente chiusa da una sommossa.","source":"Lex Arcana 2e - Manuale Base"},
+    {"range":[6,6],"text":"Un testimone cambia versione e mette in dubbio l'indagine.","source":"Lex Arcana 2e - Manuale Base"},
+    {"range":[7,7],"text":"Una reliquia o iscrizione viene danneggiata proprio mentre viene esaminata.","source":"Lex Arcana 2e - Manuale Base"},
+    {"range":[8,8],"text":"Un contatto viene arrestato prima di poter parlare.","source":"Lex Arcana 2e - Manuale Base"},
+    {"range":[9,9],"text":"Un culto proibito osserva i Custodes dai vicoli.","source":"Lex Arcana 2e - Aegyptus"},
+    {"range":[10,10],"text":"Una folla ostile si forma dopo una provocazione o un'aggressione.","source":"Lex Arcana 2e - Aegyptus"},
+    {"range":[11,11],"text":"Un oggetto apparentemente innocuo porta una maledizione o un presagio.","source":"Lex Arcana 2e - Aegyptus"},
+    {"range":[12,12],"text":"Un evento soprannaturale altera per pochi istanti l'ambiente circostante.","source":"Lex Arcana 2e - Manuale Base"}
+  ]
+}
