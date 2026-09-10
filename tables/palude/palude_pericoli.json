@@ -4,6 +4,6 @@
   "description": "Pericoli naturali, ambientali e situazionali delle paludi.",
   "dice": "1d20",
   "entries": [
-    { "range": [1, 1], "text": "Il terreno apparentemente solido cede trasformandosi in fango profondo.", "source": "Esempio – da popolare" }
+    { "range": [1, 1], "text": "Acque basse e torbide nascondono un tratto di fondo instabile e difficile da attraversare.", "source": "Lex Arcana - Manuale Base; voce derivata" }
   ]
 }
