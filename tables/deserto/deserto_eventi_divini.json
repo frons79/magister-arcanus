@@ -1,0 +1,20 @@
+{
+  "name": "Deserto - Eventi Divini",
+  "category": "Deserto/Eventi Divini",
+  "description": "Presagi divini manifestati nel deserto. I Custodes possono interpretarli o decifrarli mediante Rituali.",
+  "dice": "1d20",
+  "entries": [
+    { "range": [1, 1], "text": "Per un istante il sole appare pallido e freddo; sulla sabbia compare un simbolo che scompare al primo tocco." },
+    { "range": [2, 3], "text": "Un vento improvviso solleva la sabbia in un cerchio perfetto attorno ai Custodes, poi cessa senza lasciare traccia." },
+    { "range": [4, 5], "text": "Un animale del deserto fissa i Custodes in silenzio e indica con il muso una direzione precisa prima di allontanarsi." },
+    { "range": [6, 7], "text": "Una nube solitaria oscura il sole per pochi battiti e proietta sulla sabbia una forma innaturale." },
+    { "range": [8, 9], "text": "I Custodes odono distintamente il suono di acqua corrente, benché non vi sia alcuna sorgente nelle vicinanze." },
+    { "range": [10, 11], "text": "Nella sabbia compaiono impronte che conducono verso il luogo indicato dal presagio, ma non provengono da alcuna creatura visibile." },
+    { "range": [12, 13], "text": "Una stella resta visibile nel cielo molto più a lungo delle altre e sembra indicare una rovina, un tempio o un sepolcro." },
+    { "range": [14, 15], "text": "Una folata porta ai Custodes un odore preciso — incenso, mirra, acqua o sangue — associato a un luogo o a una presenza soprannaturale." },
+    { "range": [16, 17], "text": "Un'ombra attraversa la sabbia senza che nulla la proietti. Il suo movimento suggerisce una direzione o un avvertimento." },
+    { "range": [18, 18], "text": "Per pochi istanti una voce sembra provenire dal vento e pronuncia una singola parola comprensibile." },
+    { "range": [19, 19], "text": "Il deserto mostra una visione fugace di ciò che potrebbe accadere se i Custodes ignorassero il segno." },
+    { "range": [20, 20], "text": "Un presagio maggiore: un fenomeno celeste, atmosferico o animale manifesta inequivocabilmente la volontà di una divinità." }
+  ]
+}
