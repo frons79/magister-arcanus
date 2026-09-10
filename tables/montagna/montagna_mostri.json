@@ -1,0 +1,9 @@
+{
+  "name": "Montagna - Mostri",
+  "category": "Montagna/Mostri",
+  "description": "Incontri con creature e mostri delle regioni montuose.",
+  "dice": "1d20",
+  "entries": [
+    { "range": [1, 1], "text": "1d4 Aquile di grandi dimensioni", "source": "Esempio – da popolare" }
+  ]
+}
