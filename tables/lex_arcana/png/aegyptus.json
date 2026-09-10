@@ -1,0 +1,19 @@
+{
+  "name": "Lex Arcana - Aegyptus - PNG",
+  "category": "Lex Arcana/PNG/Aegyptus",
+  "description": "Categorie di PNG e avversari umani presenti nel materiale Aegyptus.",
+  "dice": "1d20",
+  "entries": [
+    { "range": [1, 2], "text": "Medjai" },
+    { "range": [3, 4], "text": "Nomadi del Deserto" },
+    { "range": [5, 6], "text": "Trogloditi" },
+    { "range": [7, 8], "text": "Sha-gaz" },
+    { "range": [9, 10], "text": "Ladri di Tombe" },
+    { "range": [11, 12], "text": "Cammellieri" },
+    { "range": [13, 14], "text": "Battellieri" },
+    { "range": [15, 16], "text": "Alti Sacerdoti" },
+    { "range": [17, 18], "text": "Forsennati" },
+    { "range": [19, 19], "text": "Adoratori del Vuoto" },
+    { "range": [20, 20], "text": "Trogloditi" }
+  ]
+}
