@@ -1,0 +1,12 @@
+{
+  "name": "Lex Arcana - Aegyptus - Mummie",
+  "category": "Lex Arcana/Creature/Aegyptus/Mummie",
+  "description": "Tabella di selezione delle principali creature mummificate presenti nel materiale Aegyptus.",
+  "dice": "1d12",
+  "entries": [
+    { "range": [1, 6], "text": "Mummie" },
+    { "range": [7, 9], "text": "Guerrieri Mummificati" },
+    { "range": [10, 11], "text": "Sacerdoti Mummificati" },
+    { "range": [12, 12], "text": "Signori delle Mummie" }
+  ]
+}
