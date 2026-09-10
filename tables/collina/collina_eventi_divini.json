@@ -1,0 +1,9 @@
+{
+  "name": "Collina - Eventi Divini",
+  "category": "Collina/Eventi Divini",
+  "description": "Presagi divini manifestati nelle colline. I Custodes possono interpretarli o decifrarli mediante Rituali.",
+  "dice": "1d20",
+  "entries": [
+    { "range": [1, 1], "text": "Una raffica di vento piega l'erba formando per pochi istanti un simbolo riconoscibile.", "source": "Esempio – da popolare" }
+  ]
+}
