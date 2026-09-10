@@ -1,0 +1,13 @@
+{
+  "name":"Dacia - Gelido Settentrione - PNG",
+  "category":"Dacia/Gelido Settentrione/PNG",
+  "description":"PNG militari, esploratori e abitanti delle regioni settentrionali della Dacia.",
+  "dice":"1d20",
+  "entries":[
+    {"range":[1,10],"text":"Nessun PNG: un tratto di strada militare deserta.","source":"Lex Arcana - Dacia e Thracia; voce derivata"},
+    {"range":[11,14],"text":"1d6 Legionari in missione, prudenti e insolitamente furtivi.","source":"Lex Arcana - Dacia e Thracia"},
+    {"range":[15,17],"text":"1 Guida locale abituata ai passi montani e alle foreste.","source":"Lex Arcana - Dacia e Thracia; voce derivata"},
+    {"range":[18,19],"text":"1 Cacciatore daco che conosce sentieri e superstizioni locali.","source":"Lex Arcana - Dacia e Thracia; voce derivata"},
+    {"range":[20,20],"text":"1 Capnobata in viaggio, apparentemente pacifico ma difficile da interpretare.","source":"Lex Arcana - Dacia e Thracia"}
+  ]
+}
