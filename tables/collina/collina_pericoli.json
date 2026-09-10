@@ -1,0 +1,9 @@
+{
+  "name": "Collina - Pericoli",
+  "category": "Collina/Pericoli",
+  "description": "Pericoli naturali, ambientali e situazionali delle colline.",
+  "dice": "1d20",
+  "entries": [
+    { "range": [1, 1], "text": "Un pendio friabile cede sotto i piedi dei Custodes.", "source": "Esempio – da popolare" }
+  ]
+}
