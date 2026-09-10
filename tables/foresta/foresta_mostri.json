@@ -4,6 +4,6 @@
   "description": "Incontri con creature e mostri delle foreste.",
   "dice": "1d20",
   "entries": [
-    { "range": [1, 1], "text": "1d6 Lupi affamati", "source": "Esempio – da popolare" }
+    { "range": [1, 1], "text": "1d4 Cervi", "source": "Lex Arcana - Manuale Base" }
   ]
 }
