@@ -1,9 +1,4 @@
 {
-  "name": "Collina - Mostri",
-  "category": "Collina/Mostri",
-  "description": "Incontri con creature e mostri delle colline.",
-  "dice": "1d20",
-  "entries": [
-    { "range": [1, 1], "text": "1d4 Cinghiali", "source": "Lex Arcana - Manuale Base" }
-  ]
-}
+  "name":"Collina - Mostri","category":"Collina/Mostri","description":"Incontri con creature e mostri delle colline, inclusi elementi derivati da Lex Arcana - Italia.","dice":"1d20","entries":[
+{"range":[1,3],"text":"1d4 Cinghiali","source":"Lex Arcana - Manuale Base"},{"range":[4,5],"text":"1d4 Lupi","source":"Lex Arcana - Manuale Base"},{"range":[6,6],"text":"1 Lupus Iguvinus","source":"Lex Arcana - Italia"},{"range":[7,7],"text":"1 Dipsas","source":"Lex Arcana - Italia"},{"range":[8,8],"text":"1 Amphisbaena","source":"Lex Arcana - Italia"},{"range":[9,9],"text":"1 Badaliscus","source":"Lex Arcana - Italia"},{"range":[10,10],"text":"1 Pica","source":"Lex Arcana - Italia"},{"range":[11,11],"text":"1 Lupo Hirpino","source":"Lex Arcana - Italia"},{"range":[12,12],"text":"1 Salamandra","source":"Lex Arcana - Italia"},{"range":[13,14],"text":"1d4 Cacciatori o pastori con cani","source":"Lex Arcana - Manuale Base; voce derivata"},{"range":[15,15],"text":"1 Chimera di Arretium","source":"Lex Arcana - Italia"},{"range":[16,16],"text":"1 Dracaena presso una rovina","source":"Lex Arcana - Italia"},{"range":[17,17],"text":"1d4 Picae presso un sentiero","source":"Lex Arcana - Italia"},{"range":[18,18],"text":"1 Amphisbaena presso un'antica pietra di confine","source":"Lex Arcana - Italia"},{"range":[19,19],"text":"1 Lupo Hirpino che segue il gruppo senza attaccare","source":"Lex Arcana - Italia"},{"range":[20,20],"text":"Tracce recenti di una creatura italica, senza incontro diretto","source":"Lex Arcana - Italia"}
+]}
