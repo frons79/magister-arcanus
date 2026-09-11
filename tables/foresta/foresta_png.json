@@ -1,9 +1,4 @@
 {
-  "name": "Foresta - PNG",
-  "category": "Foresta/PNG",
-  "description": "PNG incontrabili nelle regioni forestali.",
-  "dice": "1d20",
-  "entries": [
-    { "range": [1, 1], "text": "1 Cacciatore", "source": "Lex Arcana - Manuale Base" }
-  ]
-}
+  "name":"Foresta - PNG","category":"Foresta/PNG","description":"PNG incontrabili nelle regioni forestali, inclusi ruoli e figure derivati da Lex Arcana - Italia.","dice":"1d20","entries":[
+{"range":[1,4],"text":"1 Cacciatore","source":"Lex Arcana - Manuale Base"},{"range":[5,6],"text":"1 Boscaiolo o raccoglitore","source":"Lex Arcana - Manuale Base; voce derivata"},{"range":[7,7],"text":"1 Cacciatore della Lucania","source":"Lex Arcana - Italia"},{"range":[8,8],"text":"1 Haruspex che cerca erbe e segni naturali","source":"Lex Arcana - Italia; voce derivata"},{"range":[9,9],"text":"1 Fulgator che osserva il cielo dalla foresta","source":"Lex Arcana - Italia"},{"range":[10,10],"text":"1 Pellegrino diretto a un santuario boschivo","source":"Lex Arcana - Italia; voce derivata"},{"range":[11,12],"text":"1d4 Briganti nascosti tra gli alberi","source":"Lex Arcana - Manuale Base"},{"range":[13,13],"text":"1 Sacerdote o sacerdotessa di Diana","source":"Lex Arcana - Italia"},{"range":[14,14],"text":"1 Custode di un santuario rurale","source":"Lex Arcana - Italia; voce derivata"},{"range":[15,15],"text":"1 Esploratore che conosce un antico sentiero","source":"Lex Arcana - Italia; voce derivata"},{"range":[16,16],"text":"1 Artigiano itinerante con animali da soma","source":"Lex Arcana - Manuale Base; voce derivata"},{"range":[17,17],"text":"1 Tombarolo che ha perso la strada verso una rovina","source":"Lex Arcana - Italia"},{"range":[18,18],"text":"1d4 contadini che cercano un animale scomparso","source":"Lex Arcana - Manuale Base; voce derivata"},{"range":[19,19],"text":"1 Lucumone in viaggio con una piccola scorta","source":"Lex Arcana - Italia"},{"range":[20,20],"text":"1 straniero che sostiene di conoscere il significato di un antico presagio","source":"Lex Arcana - Italia; voce derivata"}
+]}
