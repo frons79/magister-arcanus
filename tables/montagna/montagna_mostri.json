@@ -1,9 +1,4 @@
 {
-  "name": "Montagna - Mostri",
-  "category": "Montagna/Mostri",
-  "description": "Incontri con creature e mostri delle regioni montuose.",
-  "dice": "1d20",
-  "entries": [
-    { "range": [1, 1], "text": "1d4 Aquile", "source": "Lex Arcana - Manuale Base" }
-  ]
-}
+  "name":"Montagna - Mostri","category":"Montagna/Mostri","description":"Incontri con creature e mostri delle regioni montuose, incluse creature documentate in Lex Arcana - Italia.","dice":"1d20","entries":[
+{"range":[1,3],"text":"1d4 Aquile","source":"Lex Arcana - Manuale Base"},{"range":[4,5],"text":"1d4 Lupi","source":"Lex Arcana - Manuale Base"},{"range":[6,7],"text":"1d4 Stambecchi o altra fauna montana","source":"Lex Arcana - Manuale Base; voce derivata"},{"range":[8,8],"text":"1 Lupus Iguvinus","source":"Lex Arcana - Italia"},{"range":[9,9],"text":"1 Lupo Hirpino","source":"Lex Arcana - Italia"},{"range":[10,10],"text":"1 Salamandra presso una zona vulcanica","source":"Lex Arcana - Italia"},{"range":[11,11],"text":"1 Dracaena in una grotta o presso una rovina","source":"Lex Arcana - Italia"},{"range":[12,12],"text":"1 Amphisbaena","source":"Lex Arcana - Italia"},{"range":[13,13],"text":"1 Chimera di Arretium","source":"Lex Arcana - Italia"},{"range":[14,14],"text":"1d4 Aquile Prometeiche","source":"Lex Arcana - Dacia e Thracia"},{"range":[15,15],"text":"1 Balaur","source":"Lex Arcana - Dacia e Thracia"},{"range":[16,16],"text":"1 Cavallo d'Incubo","source":"Lex Arcana - Dacia e Thracia"},{"range":[17,17],"text":"1d4 Aquile in prossimità di un passo","source":"Lex Arcana - Manuale Base"},{"range":[18,18],"text":"1 Lupo Hirpino che osserva il gruppo da lontano","source":"Lex Arcana - Italia"},{"range":[19,19],"text":"Segni di una creatura draconica, senza incontro diretto","source":"Lex Arcana - Italia / Dacia e Thracia"},{"range":[20,20],"text":"Un fenomeno soprannaturale attira l'attenzione verso una vetta o una grotta","source":"Lex Arcana - Italia; voce derivata"}
+]}
