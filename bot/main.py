@@ -1,7 +1,7 @@
 from __future__ import annotations
 
-import os
 from pathlib import Path
+import random
 
 import discord
 from discord import app_commands
@@ -38,16 +38,24 @@ def table_names() -> list[str]:
     return sorted(table.name for table in bot.tables.values())
 
 
-@tabella.command(name="incontri", description="Estrae uno o più risultati dalla tabella Incontri")
+def monster_tables() -> list[Table]:
+    return [table for table in bot.tables.values() if table.category.casefold().endswith("/mostri")]
+
+
+@tabella.command(name="incontri", description="Estrae uno o più incontri casuali")
 @app_commands.describe(numero="Numero di risultati da estrarre (1-20)")
 async def incontri(interaction: discord.Interaction, numero: app_commands.Range[int, 1, 20] = 1) -> None:
-    matches = [t for t in bot.tables.values() if t.category.casefold() == "incontri" and "incontri" in t.name.casefold()]
-    if not matches:
-        await interaction.response.send_message("Nessuna tabella Incontri disponibile.", ephemeral=True)
+    tables = monster_tables()
+    if not tables:
+        await interaction.response.send_message("Nessuna tabella Mostri disponibile.", ephemeral=True)
         return
-    table = matches[0]
-    results = [f"**{i}.** {table.roll()}" for i in range(1, numero + 1)]
-    await interaction.response.send_message(f"**{table.name}**\n" + "\n".join(results), ephemeral=True)
+
+    results = []
+    for index in range(1, numero + 1):
+        table = random.choice(tables)
+        results.append(f"**{index}.** *{table.name}* — {table.roll()}")
+
+    await interaction.response.send_message("**Incontro/i casuale/i**\n" + "\n".join(results), ephemeral=True)
 
 
 @tabella.command(name="estrai", description="Estrae uno o più risultati da una tabella specifica")
@@ -75,10 +83,7 @@ async def tabellainfo(interaction: discord.Interaction, nome: str) -> None:
     if table is None:
         await interaction.response.send_message("Tabella non trovata.", ephemeral=True)
         return
-    await interaction.response.send_message(
-        f"**{table.name}**\nCategoria: `{table.category}`\n{table.description}\nVoci: `{len(table.entries)}`",
-        ephemeral=True,
-    )
+    await interaction.response.send_message(f"**{table.name}**\nCategoria: `{table.category}`\n{table.description}\nVoci: `{len(table.entries)}`", ephemeral=True)
 
 
 @bot.tree.command(name="demiurgo", description="Gestione iniziale del Demiurgo")
