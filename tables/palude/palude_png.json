@@ -1,9 +1,4 @@
 {
-  "name": "Palude - PNG",
-  "category": "Palude/PNG",
-  "description": "PNG incontrabili nelle regioni paludose.",
-  "dice": "1d20",
-  "entries": [
-    { "range": [1, 1], "text": "1 Pescatore", "source": "Lex Arcana - Manuale Base" }
-  ]
-}
+  "name":"Palude - PNG","category":"Palude/PNG","description":"PNG incontrabili nelle regioni paludose, fluviali e lacustri, inclusi ruoli derivati da Lex Arcana - Italia e Dacia e Thracia.","dice":"1d20","entries":[
+{"range":[1,4],"text":"1 Pescatore","source":"Lex Arcana - Manuale Base"},{"range":[5,6],"text":"1 Traghettatore","source":"Lex Arcana - Manuale Base; voce derivata"},{"range":[7,7],"text":"1 Pescatore siciliano","source":"Lex Arcana - Italia"},{"range":[8,8],"text":"1 Sacerdote di un santuario presso le acque","source":"Lex Arcana - Italia; voce derivata"},{"range":[9,9],"text":"1 Custode di santuario","source":"Lex Arcana - Italia"},{"range":[10,10],"text":"1 Erborista alla ricerca di piante palustri","source":"Lex Arcana - Italia; voce derivata"},{"range":[11,12],"text":"1d4 Contadini o pescatori locali","source":"Lex Arcana - Manuale Base; voce derivata"},{"range":[13,13],"text":"1 Cacciatore della Lucania","source":"Lex Arcana - Italia"},{"range":[14,14],"text":"1 Mercante di passaggio","source":"Lex Arcana - Italia; voce derivata"},{"range":[15,15],"text":"1 Haruspex che cerca segni presso l'acqua","source":"Lex Arcana - Italia"},{"range":[16,16],"text":"1 Esploratore che conosce le vie d'acqua locali","source":"Lex Arcana - Italia; voce derivata"},{"range":[17,17],"text":"1d4 Legionari in pattuglia","source":"Lex Arcana - Dacia e Thracia"},{"range":[18,18],"text":"1 Sagittarius o ausiliario di passaggio","source":"Lex Arcana - Dacia e Thracia"},{"range":[19,19],"text":"1 Tombarolo che cerca una sepoltura vicino alle acque","source":"Lex Arcana - Italia"},{"range":[20,20],"text":"1 viandante che sostiene di aver visto una creatura nelle acque","source":"Lex Arcana - Italia / Dacia e Thracia; voce derivata"}
+]}
