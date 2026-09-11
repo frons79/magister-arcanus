@@ -1,0 +1,7 @@
+services:
+  magister-arcanus:
+    build: .
+    container_name: magister-arcanus
+    restart: unless-stopped
+    env_file:
+      - .env
