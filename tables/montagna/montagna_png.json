@@ -1,9 +1,4 @@
 {
-  "name": "Montagna - PNG",
-  "category": "Montagna/PNG",
-  "description": "PNG incontrabili nelle regioni montuose.",
-  "dice": "1d20",
-  "entries": [
-    { "range": [1, 1], "text": "1 Guida", "source": "Lex Arcana - Manuale Base" }
-  ]
-}
+  "name":"Montagna - PNG","category":"Montagna/PNG","description":"PNG incontrabili nelle regioni montuose, inclusi ruoli derivati da Lex Arcana - Italia e Dacia e Thracia.","dice":"1d20","entries":[
+{"range":[1,4],"text":"1 Guida di montagna","source":"Lex Arcana - Manuale Base"},{"range":[5,6],"text":"1 Pastore o allevatore","source":"Lex Arcana - Manuale Base; voce derivata"},{"range":[7,7],"text":"1 Cacciatore della Lucania","source":"Lex Arcana - Italia"},{"range":[8,8],"text":"1 Esploratore locale","source":"Lex Arcana - Italia; voce derivata"},{"range":[9,9],"text":"1 Haruspex in viaggio verso un santuario","source":"Lex Arcana - Italia"},{"range":[10,10],"text":"1 Fulgator che studia i fenomeni atmosferici","source":"Lex Arcana - Italia"},{"range":[11,11],"text":"1 Mercante con animali da soma","source":"Lex Arcana - Manuale Base; voce derivata"},{"range":[12,12],"text":"1 Artigiano o minatore","source":"Lex Arcana - Italia; voce derivata"},{"range":[13,13],"text":"1 Legionarius in pattuglia","source":"Lex Arcana - Dacia e Thracia"},{"range":[14,14],"text":"1 Sagittarius di passaggio","source":"Lex Arcana - Dacia e Thracia"},{"range":[15,15],"text":"1 Stregone Barbaro o guida locale","source":"Lex Arcana - Dacia e Thracia"},{"range":[16,16],"text":"1 Pellegrino diretto a un luogo sacro","source":"Lex Arcana - Italia; voce derivata"},{"range":[17,17],"text":"1 Tombarolo alla ricerca di una tomba antica","source":"Lex Arcana - Italia"},{"range":[18,18],"text":"1d4 Briganti o predoni","source":"Lex Arcana - Manuale Base"},{"range":[19,19],"text":"1 Custode di un passo montano","source":"Lex Arcana - Italia; voce derivata"},{"range":[20,20],"text":"1 viandante ferito che porta notizie da una regione lontana","source":"Lex Arcana - Italia / Dacia e Thracia; voce derivata"}
+]}
