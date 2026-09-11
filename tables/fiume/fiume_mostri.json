@@ -1,18 +1,4 @@
 {
-  "name": "Fiume - Mostri",
-  "category": "Fiume/Mostri",
-  "description": "Incontri con creature acquatiche o legate alle rive dei grandi fiumi. Include materiale verificato di Aegyptus.",
-  "dice": "1d20",
-  "entries": [
-    { "range": [1, 4], "text": "1d4 Coccodrilli", "source": "Lex Arcana 2e - Manuale Base / Aegyptus" },
-    { "range": [5, 7], "text": "1 Ippopotamo", "source": "Lex Arcana 2e - Aegyptus" },
-    { "range": [8, 9], "text": "1d4 Coccodrilli di Sobek", "source": "Lex Arcana 2e - Aegyptus" },
-    { "range": [10, 11], "text": "1d4 Serpenti velenosi", "source": "Lex Arcana 2e - Manuale Base" },
-    { "range": [12, 13], "text": "1 Leone presso la riva", "source": "Lex Arcana 2e - Manuale Base" },
-    { "range": [14, 15], "text": "1d4 Sciacalli di Anubis presso una riva o un sepolcro", "source": "Lex Arcana 2e - Aegyptus" },
-    { "range": [16, 17], "text": "1d4 Scorpioni di Selkis su una riva sabbiosa", "source": "Lex Arcana 2e - Aegyptus" },
-    { "range": [18, 18], "text": "1d4 Falchi di Horus", "source": "Lex Arcana 2e - Aegyptus" },
-    { "range": [19, 19], "text": "Un segno della presenza di una creatura sacra", "source": "Lex Arcana 2e - Aegyptus" },
-    { "range": [20, 20], "text": "Un incontro soprannaturale legato alle acque del fiume", "source": "Magister Arcanus" }
-  ]
-}
+  "name":"Fiume - Mostri","category":"Fiume/Mostri","description":"Incontri con creature acquatiche o legate alle rive dei grandi fiumi, integrati con materiale di Italia e Aegyptus.","dice":"1d20","entries":[
+{"range":[1,3],"text":"1d4 Coccodrilli","source":"Lex Arcana 2e - Manuale Base / Aegyptus"},{"range":[4,5],"text":"1d4 Serpenti velenosi","source":"Lex Arcana 2e - Manuale Base"},{"range":[6,6],"text":"1 Echeneide presso la riva","source":"Lex Arcana - Italia"},{"range":[7,7],"text":"1 Scolopendra marina","source":"Lex Arcana - Italia"},{"range":[8,8],"text":"1 Bue d'acqua","source":"Lex Arcana - Italia"},{"range":[9,9],"text":"1 Lupus Iguvinus presso un guado","source":"Lex Arcana - Italia"},{"range":[10,10],"text":"1 Dipsas presso una sorgente o una riva","source":"Lex Arcana - Italia"},{"range":[11,11],"text":"1 Amphisbaena presso un corso d'acqua","source":"Lex Arcana - Italia"},{"range":[12,12],"text":"1d4 Pesci Plutoniani","source":"Lex Arcana - Dacia e Thracia"},{"range":[13,13],"text":"1 Hirudo","source":"Lex Arcana - Dacia e Thracia"},{"range":[14,14],"text":"1d4 Coccodrilli di Sobek","source":"Lex Arcana 2e - Aegyptus"},{"range":[15,15],"text":"1 Ippopotamo","source":"Lex Arcana 2e - Aegyptus"},{"range":[16,16],"text":"1d4 Sciacalli di Anubis presso una riva o un sepolcro","source":"Lex Arcana 2e - Aegyptus"},{"range":[17,17],"text":"1d4 Scorpioni di Selkis su una riva sabbiosa","source":"Lex Arcana 2e - Aegyptus"},{"range":[18,18],"text":"1d4 Falchi di Horus","source":"Lex Arcana 2e - Aegyptus"},{"range":[19,19],"text":"Un segno della presenza di una creatura sacra presso le acque","source":"Lex Arcana - Italia / Aegyptus"},{"range":[20,20],"text":"Un incontro soprannaturale legato alle acque del fiume","source":"Lex Arcana - Italia; voce derivata"}
+]}
