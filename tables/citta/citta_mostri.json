@@ -1,20 +1,4 @@
 {
-  "name": "Città - Mostri",
-  "category": "Città/Mostri",
-  "description": "Incontri soprannaturali e creature per ambienti urbani.",
-  "dice": "1d12",
-  "entries": [
-    {"range":[1,1],"text":"1d4 Scheletri emersi da una necropoli","source":"Lex Arcana 2e - Manuale Base"},
-    {"range":[2,2],"text":"1 Mummia che ha abbandonato un sepolcro cittadino","source":"Lex Arcana 2e - Aegyptus"},
-    {"range":[3,3],"text":"1d4 Forsennati al seguito di un culto proibito","source":"Lex Arcana 2e - Aegyptus"},
-    {"range":[4,4],"text":"1 Adoratore del Vuoto e 1d4 complici","source":"Lex Arcana 2e - Aegyptus"},
-    {"range":[5,5],"text":"1 Lamia nascosta tra la folla","source":"Lex Arcana 2e - Manuale Base"},
-    {"range":[6,6],"text":"1 Gorgone nei sotterranei di un edificio abbandonato","source":"Lex Arcana 2e - Manuale Base"},
-    {"range":[7,7],"text":"1d3 Larve o spiriti inquieti presso un luogo funebre","source":"Lex Arcana 2e - Manuale Base"},
-    {"range":[8,8],"text":"1 Demone evocato in un vicolo o santuario clandestino","source":"Lex Arcana 2e - Manuale Base"},
-    {"range":[9,9],"text":"1d6 animali fuggiti da un serraglio, improvvisamente aggressivi","source":"Lex Arcana 2e - Manuale Base"},
-    {"range":[10,10],"text":"1 Creatura fantastica in cerca di un rifugio tra le rovine","source":"Lex Arcana 2e - Manuale Base"},
-    {"range":[11,11],"text":"1 Mummia o altro non-morto che insegue un ladro di tombe","source":"Lex Arcana 2e - Aegyptus"},
-    {"range":[12,12],"text":"1 creatura soprannaturale collegata a un culto locale proibito","source":"Lex Arcana 2e - Manuale Base"}
-  ]
-}
+  "name":"Città - Mostri","category":"Città/Mostri","description":"Incontri soprannaturali e creature per ambienti urbani, con elementi regionali derivati da Lex Arcana - Italia.","dice":"1d20","entries":[
+{"range":[1,2],"text":"1d4 Scheletri emersi da una necropoli","source":"Lex Arcana 2e - Manuale Base"},{"range":[3,3],"text":"1 Charun presso una necropoli o un sepolcro","source":"Lex Arcana - Italia"},{"range":[4,4],"text":"1 Tuchulcha in un luogo funebre o sotterraneo","source":"Lex Arcana - Italia"},{"range":[5,5],"text":"1 Vanth presso una tomba o un passaggio verso l'oltretomba","source":"Lex Arcana - Italia"},{"range":[6,6],"text":"1 Lasa osservatrice in prossimità di un santuario","source":"Lex Arcana - Italia"},{"range":[7,7],"text":"1 Chimera di Arretium nelle rovine di un edificio","source":"Lex Arcana - Italia"},{"range":[8,8],"text":"1 Dracaena nelle fondamenta di una struttura antica","source":"Lex Arcana - Italia"},{"range":[9,9],"text":"1 Mummia che ha abbandonato un sepolcro cittadino","source":"Lex Arcana 2e - Aegyptus"},{"range":[10,10],"text":"1 Lamia nascosta tra la folla","source":"Lex Arcana 2e - Manuale Base"},{"range":[11,11],"text":"1 Gorgone nei sotterranei di un edificio abbandonato","source":"Lex Arcana 2e - Manuale Base"},{"range":[12,12],"text":"1d3 Larve o spiriti inquieti presso un luogo funebre","source":"Lex Arcana 2e - Manuale Base"},{"range":[13,13],"text":"1d4 Picae disturbate presso un mercato o una piazza","source":"Lex Arcana - Italia"},{"range":[14,14],"text":"1 Echeneide presso un porto o canale","source":"Lex Arcana - Italia"},{"range":[15,15],"text":"1 Segugio Aetneo in una città siciliana","source":"Lex Arcana - Italia"},{"range":[16,16],"text":"1 Lestrigone in cerca di vittime lontano dalla propria terra","source":"Lex Arcana - Italia"},{"range":[17,17],"text":"1 Salamandra presso fornaci o officine","source":"Lex Arcana - Italia"},{"range":[18,18],"text":"1 Dipsas nascosta in un'abitazione o in un vicolo","source":"Lex Arcana - Italia"},{"range":[19,19],"text":"1 demone etrusco legato a un antico culto locale","source":"Lex Arcana - Italia"},{"range":[20,20],"text":"Segni recenti di una creatura soprannaturale all'interno della città, senza incontro diretto","source":"Lex Arcana - Italia"}
+]}
